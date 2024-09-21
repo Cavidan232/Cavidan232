@@ -5,15 +5,15 @@
 # Cavidan Vəlizadə
 
 ```js
-import SoftwareDeveloper from 'cavidanvelizade';
+import Front-endDeveloper from 'cavidanvelizade';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends Front-endDeveloper {
   name     = 'Cavidan Vəlizadə';
   title    = 'Front-end Developer';
   location = 'Lankaran, AZ';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends Front-endDeveloper {
   languages  = ['JavaScript', 'HTML', 'CSS'];
   databases  = ['Firebase'];
   frameworks = ['React', 'Tailwind CSS', 'Bootstrap'];
