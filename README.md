@@ -10,7 +10,7 @@ import FrontEndDeveloper from 'cavidanvelizade';
 class Bio extends FrontEndDeveloper {
   name     = 'Cavidan Vəlizadə';
   title    = 'Front-end Developer';
-  location = 'Lankaran, AZ';
+  location = 'Jalilabad, AZ';
 }
 
 class Skills extends FrontEndDeveloper {
