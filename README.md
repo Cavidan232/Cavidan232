@@ -1,20 +1,6 @@
-<p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<h1 align="center">Hi 👋, I'm Nuray</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-
-# Cavidan Vəlizadə
-
-```js
-import FrontEndDeveloper from 'cavidanvelizade';
-
-class Bio extends FrontEndDeveloper {
-  name     = 'Cavidan Vəlizadə';
-  title    = 'Front-end Developer';
-  location = 'Jalilabad, AZ';
-}
-
-class Skills extends FrontEndDeveloper {
-  languages  = ['JavaScript', 'HTML', 'CSS'];
-  databases  = ['Firebase'];
-  frameworks = ['React', 'Tailwind CSS', 'Bootstrap'];
-}
