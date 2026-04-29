@@ -1,28 +1,26 @@
 ````md
-<div align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
-  
-  # Hi there, I'm Cavidan Vəlizadə 👋
-  
-  ### Front-end Developer | React Enthusiast | UI Lover
-  
-  <p>
-    Passionate about building modern, responsive and user-friendly web interfaces.
-  </p>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Cavidan Vəlizadə</h1>
+<h3 align="center">Front-end Developer from Azerbaijan 🇦🇿</h3>
+
+<p align="center">
+  Passionate about building modern, responsive and user-friendly web interfaces.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```js
+```javascript
 import FrontEndDeveloper from 'cavidanvelizade';
 
 class Bio extends FrontEndDeveloper {
   name     = 'Cavidan Vəlizadə';
   title    = 'Front-end Developer';
   location = 'Azerbaijan 🇦🇿';
-  focus    = 'Modern Web Development';
 }
 ````
 
@@ -30,18 +28,17 @@ class Bio extends FrontEndDeveloper {
 
 ## 🚀 Skills
 
-```js
+```javascript
 class Skills extends FrontEndDeveloper {
   languages  = ['JavaScript', 'HTML', 'CSS'];
+  databases  = ['Firebase'];
   frameworks = ['React', 'Tailwind CSS', 'Bootstrap'];
-  database   = ['Firebase'];
-  tools      = ['Git', 'GitHub', 'VS Code'];
 }
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,firebase,git,github,vscode" />
@@ -52,24 +49,15 @@ class Skills extends FrontEndDeveloper {
 ## 📌 Featured Projects
 
 * 🎵 **Artlis Clone** – Music website
-* 🍔 **Restaurant Website** – Responsive food ordering UI
-* 📝 **Simplenote Clone** – Notes app built with React
-* 🌍 **Travel Website** – Modern tourism platform
+* 🍔 **Restaurant Website** – Food ordering UI
+* 📝 **Simplenote Clone** – Notes app
+* 🌍 **Travel Website** – Tourism website
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+  <a href="https://github.com/yourusername">GitHub</a>
 </p>
-
----
-
-<div align="center">
-
-### ✨ “Code is not just syntax, it’s creativity.”
-
-</div>
 ```
