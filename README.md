@@ -70,7 +70,7 @@ class Skills extends FrontEndDeveloper {
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">GitHub</a>
+  <a href="https://github.com/cavidan232">GitHub</a>
 </p>
 
 ---
