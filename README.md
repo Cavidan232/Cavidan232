@@ -1,196 +1,370 @@
+<!-- ===================== HERO ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Cavidan%20V%C9%99lizad%C9%99&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Mathematics%20%26%20Informatics%20Teacher%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,100:164e63&height=240&section=header&text=CAVIDAN%20V%C6%8FL%C4%B0ZAD%C6%8F&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FRONT-END%20DEVELOPER%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20MATHEMATICS%20%26%20INFORMATICS&descAlignY=57&descSize=15"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+clean+web+experiences.;Learning+Python+%7C+SQL+%7C+Data+Analytics.;Turning+data+into+useful+insights.;Learning+by+building+real+projects."
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
   <a href="https://cavidan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-cavidan.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Cavidan232">
-    <img src="https://img.shields.io/badge/GitHub-Cavidan232-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/javidan-valizada-163747284/">
-    <img src="https://img.shields.io/badge/LinkedIn-Cavidan%20V%C9%99lizad%C9%99-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Cavidan232">
+    <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+<br>
+
+<!-- ===================== INTRO ===================== -->
+
+<h2 align="center">👋 Hey, I'm Cavidan</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+web+interfaces+%F0%9F%92%BB;Learning+data+analytics+%F0%9F%93%8A;Turning+data+into+insights+%F0%9F%94%8D;Learning+by+building+real+projects+%F0%9F%9A%80" alt="Typing SVG"/>
+  <b>Front-End Developer</b> &nbsp;•&nbsp;
+  <b>Mathematics & Informatics Teacher</b> &nbsp;•&nbsp;
+  <b>Data Analytics Enthusiast</b>
+</p>
+
+<p align="center">
+  I build web interfaces, work with data, and learn by turning ideas
+  into practical projects.
+</p>
+
+<p align="center">
+  Currently focused on <b>Python · SQL · Pandas · NumPy · Data Visualization</b>
+  while continuing to grow as a Front-End Developer.
 </p>
 
 ---
 
-## 👋 About Me
+<!-- ===================== CURRENTLY ===================== -->
 
-I'm **Cavidan Vəlizadə**, a final-year **Mathematics & Informatics Teaching**
-student with a growing focus on **Front-End Development and Data Analytics**.
+## ⚡ Currently
 
-I enjoy building practical web projects, working with data, and learning
-technologies by applying them to real problems rather than simply collecting
-tools.
+<table align="center">
+<tr>
+<td width="50%">
 
-My current direction sits between **development, data and education**.
+### 📊 Data Analytics
 
 ```text
-Web Development  →  React · JavaScript · HTML · CSS
-Data Analytics   →  Python · Pandas · NumPy · SQL
-Visualization    →  Matplotlib · Plotly
-Education        →  Mathematics · Informatics
+Python
+  ↓
+NumPy
+  ↓
+Pandas
+  ↓
+SQL
+  ↓
+Data Visualization
 ```
 
+</td>
+<td width="50%">
+
+### 💻 Development
+
+```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+React
+     ↓
+Tailwind CSS
+     ↓
+Real Projects
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Currently Learning
+<!-- ===================== STACK ===================== -->
+
+## 🛠️ Technologies I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,sqlite,git,github,vscode" />
+
 </p>
 
-I'm currently strengthening my skills in:
-
-* 🐍 Python for data analysis
-* 🗃️ SQL and relational databases
-* 🐼 Pandas & NumPy
-* 📊 Data visualization
-* 🔎 Exploratory data analysis
-* ⚛️ React and modern front-end development
+<p align="center">
+  <sub>
+    Also working with: Axios · AOS · Microsoft Excel · Power Pivot
+  </sub>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== PROJECTS ===================== -->
 
-### Front-End
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌱 YurTrip</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode"/>
+An eco-cultural tourism platform developed within
+<b>Enactus LDU</b>, connecting travelers with rural
+family stays and local experiences in southern Azerbaijan.
 </p>
-
-### Data & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite"/>
+<b>Focus:</b><br>
+Front-End · UX · Tourism Technology
 </p>
 
-**Also working with:** Axios · AOS · Microsoft Excel · Power Pivot
+<p>
+<a href="https://github.com/Cavidan232/yurtrip2">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎬 Movie Sales Analysis</h3>
+
+<p>
+A practical data analysis project covering data cleaning,
+duplicate detection, missing values and business-oriented
+insights from movie sales data.
+</p>
+
+<p>
+<b>Tools:</b><br>
+Python · NumPy · Pandas
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧸 Toy Store Analytics</h3>
+
+<p>
+Exploring e-commerce order data to identify monthly trends,
+sales patterns and useful business insights.
+</p>
+
+<p>
+<b>Tools:</b><br>
+SQL · Python · Pandas · Data Visualization
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌾 Lankonfarm</h3>
+
+<p>
+A responsive front-end project developed for a local
+agricultural business.
+</p>
+
+<p>
+<b>Focus:</b><br>
+Front-End · Responsive Design · UX
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📌 Selected Projects
-
-### 🌱 YurTrip
-
-**Eco-cultural tourism platform**
-
-A project developed within **Enactus LDU**, focused on rural tourism,
-family stays and local experiences across southern Azerbaijan.
-
-**Focus:** Front-End Development · UX · Tourism Technology
-
-[View Repository →](https://github.com/Cavidan232/yurtrip2)
-
----
-
-### 🎬 Movie Sales Analysis
-
-A practical data analysis project focused on cleaning and exploring movie
-sales data, including duplicate detection, missing values and
-business-oriented insights.
-
-**Tools:** Python · NumPy · Pandas
-
----
-
-### 🧸 Toy Store E-Commerce Analysis
-
-Exploring e-commerce order data to identify sales patterns, monthly trends
-and useful business insights.
-
-**Tools:** SQL · Python · Pandas · Data Visualization
-
----
-
-### 🌾 Lankonfarm
-
-A front-end project created for a local agricultural business.
-
-**Focus:** Responsive Web Design · Front-End Development
-
----
-
-## 📊 GitHub Activity
+## 📈 My Data Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cavidan232&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavidan232&layout=compact&hide_border=true&langs_count=8" height="165"/>
+
+<img src="https://img.shields.io/badge/01-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/02-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/03-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/04-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/05-Visualization-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cavidan232&hide_border=true" height="165"/>
+  <i>
+    Learning the tools → working with real datasets → finding patterns
+    → communicating insights.
+  </i>
 </p>
 
 ---
+
+<!-- ===================== GITHUB ===================== -->
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Cavidan232&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavidan232&layout=compact&hide_border=true&langs_count=8"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Cavidan232&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
 
 ## 🎓 Education
 
-**Lankaran State University — LDU**
-BSc — Mathematics & Informatics Teaching
-`2021 – 2026`
+<table>
+<tr>
+<td width="50%">
 
-**Sumgayit State University — SDU**
-MSc — Computer Systems & Networks
+### Lankaran State University
+
+**BSc — Mathematics & Informatics Teaching**
+
+`2021 — 2026`
+
+</td>
+
+<td width="50%">
+
+### Sumgayit State University
+
+**MSc — Computer Systems & Networks**
+
+`2026 —`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Beyond Code
+<!-- ===================== ABOUT ===================== -->
 
-I'm interested in the intersection of:
+## 🧠 What I Care About
 
-**Mathematics × Technology × Data × Education**
+```text
+        MATHEMATICS
+             │
+             ▼
+       PROBLEM SOLVING
+             │
+      ┌──────┴──────┐
+      ▼             ▼
+   SOFTWARE       DATA
+      │             │
+      └──────┬──────┘
+             ▼
+      PRACTICAL SOLUTIONS
+```
 
-I also enjoy contributing to student and community initiatives, working on
-team projects, and turning ideas into practical digital products.
+I enjoy the intersection of **technology, data and education**.
+
+My background in mathematics and informatics gives me a problem-solving
+perspective, while development and data analytics give me the tools to
+turn those ideas into something practical.
 
 ---
 
 ## 🎯 What I'm Working Toward
 
-My goal is to become a developer who can work comfortably across both
-**software development and data**.
+My current roadmap:
 
-For now, I'm focusing on building a strong foundation in:
+```text
+React
+  │
+  ├── Front-End Development
+  │
+  ▼
+Python
+  │
+  ├── Data Analysis
+  │
+  ▼
+SQL
+  │
+  ├── Databases
+  │
+  ▼
+Data Visualization
+  │
+  └── Business Insights
+```
 
-**React → Python → SQL → Data Analysis → Data Visualization**
+The goal isn't to collect technologies.
 
-and, most importantly, creating projects that demonstrate what I can
-actually do.
+**The goal is to build things that are useful.**
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Find Me
 
 <p align="center">
-  <a href="https://cavidan.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/javidan-valizada-163747284/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Cavidan232">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://cavidan.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-cavidan.vercel.app-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/javidan-valizada-163747284/">
+<img src="https://img.shields.io/badge/LinkedIn-Cavidan%20V%C9%99lizad%C9%99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Cavidan232">
+<img src="https://img.shields.io/badge/GitHub-Cavidan232-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
----
+<br>
 
 <p align="center">
-  <i>Code • Data • Creativity • Curiosity</i>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:111827,100:050505&height=120&section=footer"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+  <sub>Code • Data • Creativity • Curiosity</sub>
 </p>
